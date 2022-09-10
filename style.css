@@ -1,0 +1,136 @@
+*{
+margin:0;
+padding:0;
+
+}
+
+h1,h2,h3,h4{
+    color: rgb(10, 47, 118);
+
+
+}
+
+
+.container{
+background-color: rgb(153, 182, 197);
+max-width: 1000px;
+margin: 0 auto;
+border-bottom:none;
+
+}
+img{
+
+    height:100px;
+    width: 80px;
+    border-radius:50%;
+    border: 1px solid white;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+}
+.Name{
+    float: left;
+    
+    margin-top: 45px;
+    margin-left: 5px;
+   
+    color: rgb(10, 62, 158);
+}
+.header-contact{
+    float:right;
+    padding:40px;
+    
+
+}
+
+
+.header-contact a{
+text-decoration:none;
+
+
+}
+.header-contact a:hover{
+    color:red;
+}
+
+hr{
+   max-width: 1000px;
+    border:5px solid black;
+    margin: 0 auto;
+    border-bottom: none;
+}
+.clear{
+    clear: both;
+}
+
+body{
+
+    
+   max-width: 1000px;
+   margin: 0 auto;
+}
+
+#content{
+ margin:10px;
+
+}
+#left{
+    float: left;
+    width: 40%;
+}
+#right{
+    float: left;
+    width: 60%;
+}
+
+.common-hr{
+    border:2px solid black;
+    margin: 20 auto;
+    max-width:1000px;
+    border-bottom: none;
+
+
+}
+
+.edu-2{
+
+    float: left;
+    width:50%;
+    
+}
+.edu-3{
+
+    float: left;
+    width:50%;
+    
+}
+#ref1{
+
+    float: left;
+    width:50%;
+    
+}
+#ref2{
+
+    float: left;
+    width:50%;
+    
+}
+
+#ref1 a{
+    text-decoration:none;
+    
+    
+    }
+#ref1 a:hover{
+        color:red;
+}
+
+#ref2 a{
+    text-decoration:none;
+    
+    
+    }
+#ref2 a:hover{
+        color:red;
+}
